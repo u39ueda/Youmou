@@ -1,0 +1,6 @@
+github "Alamofire/Alamofire" "4.7.3"
+github "DaveWoodCom/XCGLogger" "6.0.4"
+github "ReactiveX/RxSwift" "4.2.0"
+github "mac-cain13/R.swift.Library" "v4.0.0"
+github "realm/realm-cocoa" "v3.9.0"
+github "tid-kijyun/Kanna" "4.0.2"
